@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qobulovasror&label=Profile%20views&color=0e75b6&style=flat" alt="qobulovasror" /> </p>
 
-- 🌱 I’m currently learning **React, NodeJs and Angular**
+- 🌱 I’m currently learning **React,NextJs, NodeJs and NestJs**
 
 - 👨‍💻 All of my projects are available at [https://qobulovasror.github.io/Portfoilio2/](https://qobulovasror.github.io/Portfoilio2/)
 
