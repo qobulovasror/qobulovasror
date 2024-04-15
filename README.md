@@ -40,6 +40,8 @@
             src="https://github-profile-trophy.vercel.app/?username=qobulovasror&theme=matrix&margin-h=15&column=5&margin-w=10" alt="qobulovasror" /></a>
 </p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/qobulovasror?theme=dark&font=Abel&ext=activity)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qobulovasror&show_icons=true&locale=en&layout=compact" alt="qobulovasror" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qobulovasror&show_icons=true&locale=en" alt="qobulovasror" /></p>
