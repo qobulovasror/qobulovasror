@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NestJs, Docker and ML**
 
-- 👨‍💻 All of my projects are available at [https://qobulov-portfolio.netlify.app/](https://qobulov-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://qobulov-portfolio.netlify.app/](https://qobulov.uz/)
 
 - 💬 Ask me about **React, React Naive, NodeJs**
 
