@@ -1,4 +1,5 @@
-[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)]()
+![web_d_gif](https://github.com/qobulovasror/qobulovasror/assets/71517683/7c80e82b-dcb8-4517-9b8d-f1cd2616ad17)
+
 <h1 align="center">Hi 👋, I'm Asror Qobulov</h1>
 <h3 align="center">A passionate web developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -7,7 +8,7 @@
 
 - 🌱 I’m currently learning **NestJs, Docker and ML**
 
-- 👨‍💻 All of my projects are available at [https://qobulov-portfolio.netlify.app/](https://qobulov.uz/)
+- 👨‍💻 All of my projects are available at [https://qobulov.uz/](https://qobulov.uz/)
 
 - 💬 Ask me about **React, React Naive, NodeJs**
 
